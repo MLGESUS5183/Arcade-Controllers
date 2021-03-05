@@ -1,0 +1,9 @@
+.controller.custom {
+    background: url(https://raw.githubusercontent.com/VideoGameRoulette/Arcade-Controllers/master/DBFZ/base.png) center no-repeat;
+    height: 340px;
+    width: 340px;
+}
+
+.custom.disconnected {
+    background: url(stick-assets/disconnected.svgz) no-repeat;
+}
