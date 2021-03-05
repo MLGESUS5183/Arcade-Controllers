@@ -7,3 +7,7 @@
 .custom.disconnected {
     background: url(stick-assets/disconnected.svgz) no-repeat;
 }
+
+.custom.disconnected div {
+    display: none;
+}
