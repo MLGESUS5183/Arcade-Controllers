@@ -11,3 +11,43 @@
 .custom.disconnected div {
     display: none;
 }
+.custom .fstick {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    top: 0px;
+    left: 0px;
+    background: url(https://raw.githubusercontent.com/MLGESUS5183/Arcade-Controllers/master/DBFZ/DBFZ.png)
+}
+
+.custom .fstick.up {
+    background-position-x: -1762px;
+}
+
+.custom .fstick.down {
+    background-position-x: -882px;
+}
+
+.custom .fstick.left {
+    background-position-x: -1322px;
+}
+
+.custom .fstick.right {
+    background-position-x: -442px;
+}
+
+.custom .fstick.up.right {
+    background-position-x: -222px;
+}
+
+.custom .fstick.up.left {
+    background-position-x: -1542px;
+}
+
+.custom .fstick.down.right {
+    background-position-x: -662px;
+}
+
+.custom .fstick.down.left {
+    background-position-x: -1102px;
+}
